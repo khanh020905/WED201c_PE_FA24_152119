@@ -39,10 +39,11 @@ body {
 /* content 1 */
 
 .content-1-left-box {
-    border: 1px solid rgba(128, 128, 128, 0.219);
+    border: 1px solid #06A2C8;
     margin-bottom: 20px;
     margin-left: 12px;
     height: 200px;
+    width: 98%;
 }
 
 .content-1-left-box img {
@@ -185,6 +186,10 @@ body {
         height: 70px;
         margin-bottom: 30px;
         width: 100%;
+    }
+
+    .content-1-left-box {
+        border: 1px solid #06A2C8;
     }
 
     .content-1-left-box img {
